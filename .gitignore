@@ -1,0 +1,8 @@
+# st executable
+st
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
